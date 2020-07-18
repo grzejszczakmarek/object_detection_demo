@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>47.jpg</filename>
+    <path>PRICE_DETECT_LABEL-PascalVOC-export/Annotations/47.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1048</width>
+        <height>1462</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ON</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>399.4966032608696</xmin>
+        <ymin>433.81775700934577</ymin>
+        <xmax>475.81834239130444</xmax>
+        <ymax>521.4922118380061</ymax>
+    </bndbox>
+</object><object>
+    <name>PB95</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>402.9139945652174</xmin>
+        <ymin>544.2647975077881</ymin>
+        <xmax>482.65312500000005</xmax>
+        <ymax>634.2165109034268</ymax>
+    </bndbox>
+</object><object>
+    <name>PB98</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>398.35747282608696</xmin>
+        <ymin>649.018691588785</ymin>
+        <xmax>472.4009510869565</xmax>
+        <ymax>748.0794392523364</ymax>
+    </bndbox>
+</object><object>
+    <name>LPG</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>390.3835597826087</xmin>
+        <ymin>770.8520249221184</ymin>
+        <xmax>476.957472826087</xmax>
+        <ymax>858.5264797507789</ymax>
+    </bndbox>
+</object>
+</annotation>
