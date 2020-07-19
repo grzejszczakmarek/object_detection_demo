@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Screenshot_111.jpg</filename>
+    <path>Fuel-Price-Types-New-PascalVOC-export/Annotations/Screenshot_111.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>700</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>PB95</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>427.29348418756814</xmin>
+        <ymin>27.258566978193144</ymin>
+        <xmax>480.72859869138495</xmax>
+        <ymax>108.48909657320871</ymax>
+    </bndbox>
+</object><object>
+    <name>ON</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>427.83874045801525</xmin>
+        <ymin>139.01869158878503</ymin>
+        <xmax>484.54539258451473</xmax>
+        <ymax>215.8878504672897</ymax>
+    </bndbox>
+</object><object>
+    <name>LPG</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>427.83874045801525</xmin>
+        <ymin>247.50778816199374</ymin>
+        <xmax>485.63590512540895</xmax>
+        <ymax>330.3738317757009</ymax>
+    </bndbox>
+</object><object>
+    <name>PB98</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>439.28912213740455</xmin>
+        <ymin>498.83177570093454</ymin>
+        <xmax>488.90744274809157</xmax>
+        <ymax>587.6947040498442</ymax>
+    </bndbox>
+</object><object>
+    <name>ON</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>438.74386586695744</xmin>
+        <ymin>613.3177570093458</ymin>
+        <xmax>490.5432115594329</xmax>
+        <ymax>693.4579439252336</ymax>
+    </bndbox>
+</object>
+</annotation>

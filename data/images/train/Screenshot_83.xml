@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Screenshot_83.jpg</filename>
+    <path>Fuel-Price-Types-New-PascalVOC-export/Annotations/Screenshot_83.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>700</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>PB95</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>307.882360959651</xmin>
+        <ymin>82.3208722741433</ymin>
+        <xmax>378.76567611777534</xmax>
+        <ymax>163.55140186915887</ymax>
+    </bndbox>
+</object><object>
+    <name>ON</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>307.882360959651</xmin>
+        <ymin>191.90031152647973</ymin>
+        <xmax>380.9467011995638</xmax>
+        <ymax>269.3146417445482</ymax>
+    </bndbox>
+</object><object>
+    <name>PB98</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>307.882360959651</xmin>
+        <ymin>426.3239875389408</ymin>
+        <xmax>379.31093238822245</xmax>
+        <ymax>506.46417445482865</ymax>
+    </bndbox>
+</object><object>
+    <name>ON</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>306.7918484187568</xmin>
+        <ymin>529.3613707165108</ymin>
+        <xmax>375.49413849509267</xmax>
+        <ymax>611.6822429906541</ymax>
+    </bndbox>
+</object>
+</annotation>

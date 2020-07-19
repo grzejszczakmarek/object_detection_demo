@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Screenshot_76.jpg</filename>
+    <path>Fuel-Price-Types-New-PascalVOC-export/Annotations/Screenshot_76.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>700</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>PB95</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>292.61518538713193</xmin>
+        <ymin>40.34267912772585</ymin>
+        <xmax>364.58901308615043</xmax>
+        <ymax>119.93769470404982</ymax>
+    </bndbox>
+</object><object>
+    <name>ON</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>292.61518538713193</xmin>
+        <ymin>140.10903426791276</ymin>
+        <xmax>367.315294438386</xmax>
+        <ymax>223.52024922118378</ymax>
+    </bndbox>
+</object><object>
+    <name>LPG</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>293.16044165757904</xmin>
+        <ymin>243.14641744548285</ymin>
+        <xmax>365.67952562704465</xmax>
+        <ymax>329.82866043613706</ymax>
+    </bndbox>
+</object><object>
+    <name>PB98</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>290.07633587786256</xmin>
+        <ymin>493.92523364485976</ymin>
+        <xmax>360.7722191930207</xmax>
+        <ymax>571.3395638629281</ymax>
+    </bndbox>
+</object><object>
+    <name>ON</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>293.70569792802615</xmin>
+        <ymin>599.1433021806853</ymin>
+        <xmax>360.7722191930207</xmax>
+        <ymax>677.1028037383177</ymax>
+    </bndbox>
+</object>
+</annotation>

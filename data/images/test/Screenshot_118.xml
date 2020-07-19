@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Screenshot_118.jpg</filename>
+    <path>Fuel-Price-Types-New-PascalVOC-export/Annotations/Screenshot_118.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>700</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>ON</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>420.7504089422028</xmin>
+        <ymin>95.95015576323986</ymin>
+        <xmax>486.181161395856</xmax>
+        <ymax>204.4392523364486</ymax>
+    </bndbox>
+</object><object>
+    <name>PB95</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>416.57579062159215</xmin>
+        <ymin>223.52024922118375</ymin>
+        <xmax>484.54539258451473</xmax>
+        <ymax>328.1931464174454</ymax>
+    </bndbox>
+</object><object>
+    <name>LPG</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>414.7525899672846</xmin>
+        <ymin>353.816199376947</ymin>
+        <xmax>476.91180479825516</xmax>
+        <ymax>451.94704049844233</ymax>
+    </bndbox>
+</object><object>
+    <name>ON</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>414.7525899672846</xmin>
+        <ymin>470.4828660436137</ymin>
+        <xmax>475.2760359869138</xmax>
+        <ymax>578.4267912772585</ymax>
+    </bndbox>
+</object><object>
+    <name>PB98</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>418.02412758996724</xmin>
+        <ymin>591.5109034267912</ymin>
+        <xmax>475.2760359869138</xmax>
+        <ymax>699.4548286604361</ymax>
+    </bndbox>
+</object>
+</annotation>
