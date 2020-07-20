@@ -1,59 +1,48 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>Screenshot_21.jpg</filename>
-    <path>Fuel-Price-Types-New-PascalVOC-export/Annotations/Screenshot_21.jpg</path>
+    <path>DIGITS-PascalVOC-export/Annotations/Screenshot_21.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
     <size>
-        <width>1000</width>
-        <height>700</height>
+        <width>611</width>
+        <height>184</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-    <name>PB95</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>439.28912213740455</xmin>
-        <ymin>44.15887850467289</ymin>
-        <xmax>504.71987459105776</xmax>
-        <ymax>139.01869158878503</ymax>
+        <xmin>267.0750836920134</xmin>
+        <ymin>27.70496031746032</ymin>
+        <xmax>329.6068866571018</xmax>
+        <ymax>162.63829365079366</ymax>
     </bndbox>
 </object><object>
-    <name>ON</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>443.65117230098144</xmin>
-        <ymin>154.82866043613706</ymin>
-        <xmax>504.71987459105776</xmax>
-        <ymax>245.87227414330215</ymax>
+        <xmin>351.5222381635579</xmin>
+        <ymin>28.873214285714287</ymin>
+        <xmax>436.84600669536087</xmax>
+        <ymax>153.58432539682542</ymax>
     </bndbox>
 </object><object>
-    <name>PB98</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>439.28912213740455</xmin>
-        <ymin>369.626168224299</ymin>
-        <xmax>501.4483369683751</xmax>
-        <ymax>457.3987538940809</ymax>
-    </bndbox>
-</object><object>
-    <name>ON</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>434.38181570338054</xmin>
-        <ymin>477.57009345794387</ymin>
-        <xmax>496.5410305343511</xmax>
-        <ymax>560.9813084112149</ymax>
+        <xmin>444.4433285509325</xmin>
+        <ymin>15.438293650793652</ymin>
+        <xmax>536.7800095648015</xmax>
+        <ymax>150.66369047619048</ymax>
     </bndbox>
 </object>
 </annotation>

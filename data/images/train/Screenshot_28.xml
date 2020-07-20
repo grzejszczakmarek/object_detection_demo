@@ -1,70 +1,48 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>Screenshot_28.jpg</filename>
-    <path>Fuel-Price-Types-New-PascalVOC-export/Annotations/Screenshot_28.jpg</path>
+    <path>DIGITS-PascalVOC-export/Annotations/Screenshot_28.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
     <size>
-        <width>1000</width>
-        <height>700</height>
+        <width>509</width>
+        <height>217</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-    <name>PB95</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>355.3196564885496</xmin>
-        <ymin>64.87538940809968</ymin>
-        <xmax>414.75258996728456</xmax>
-        <ymax>137.38317757009344</ymax>
+        <xmin>189.87087517934003</xmin>
+        <ymin>50.10590277777778</ymin>
+        <xmax>244.6413199426112</xmax>
+        <ymax>162.1373281425365</ymax>
     </bndbox>
 </object><object>
-    <name>ON</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>356.9554252998909</xmin>
-        <ymin>158.6448598130841</ymin>
-        <xmax>415.29784623773173</xmax>
-        <ymax>230.607476635514</ymax>
+        <xmin>254.1348637015782</xmin>
+        <ymin>46.696250701459036</ymin>
+        <xmax>330.8134863701579</xmax>
+        <ymax>163.11151445005612</ymax>
     </bndbox>
 </object><object>
-    <name>LPG</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>355.3196564885496</xmin>
-        <ymin>251.86915887850466</ymin>
-        <xmax>416.3883587786259</xmax>
-        <ymax>329.2834890965732</ymax>
-    </bndbox>
-</object><object>
-    <name>PB98</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>350.95760632497274</xmin>
-        <ymin>467.75700934579436</ymin>
-        <xmax>413.1168211559433</xmax>
-        <ymax>551.1682242990654</ymax>
-    </bndbox>
-</object><object>
-    <name>LPG</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>352.04811886586685</xmin>
-        <ymin>569.7040498442367</ymin>
-        <xmax>411.6684841875681</xmax>
-        <ymax>654.2056074766354</ymax>
+        <xmin>343.4715447154472</xmin>
+        <ymin>42.55595889450056</ymin>
+        <xmax>420.8804399808704</xmax>
+        <ymax>158.72767606621773</ymax>
     </bndbox>
 </object>
 </annotation>

@@ -1,70 +1,48 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>Screenshot_8.jpg</filename>
-    <path>Fuel-Price-Types-New-PascalVOC-export/Annotations/Screenshot_8.jpg</path>
+    <path>DIGITS-PascalVOC-export/Annotations/Screenshot_8.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
     <size>
-        <width>1000</width>
-        <height>700</height>
+        <width>549</width>
+        <height>196</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-    <name>PB95</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>433.2913031624864</xmin>
-        <ymin>41.97819314641744</ymin>
-        <xmax>491.6337241003272</xmax>
-        <ymax>122.11838006230528</ymax>
+        <xmin>175.64849354375897</xmin>
+        <ymin>44.937165327978576</ymin>
+        <xmax>258.3529411764706</xmax>
+        <ymax>170.61855756358767</ymax>
     </bndbox>
 </object><object>
-    <name>ON</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>435.47232824427476</xmin>
-        <ymin>140.10903426791276</ymin>
-        <xmax>490.5432115594329</xmax>
-        <ymax>222.42990654205607</ymax>
+        <xmin>270.4304160688666</xmin>
+        <ymin>41.78857095046854</ymin>
+        <xmax>342.37015781922526</xmax>
+        <ymax>167.46996318607762</ymax>
     </bndbox>
 </object><object>
-    <name>LPG</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>433.2913031624864</xmin>
-        <ymin>245.32710280373828</ymin>
-        <xmax>489.45269901853874</xmax>
-        <ymax>326.55763239875387</ymax>
-    </bndbox>
-</object><object>
-    <name>PB98</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>431.1102780806979</xmin>
-        <ymin>483.0218068535825</ymin>
-        <xmax>485.09064885496184</xmax>
-        <ymax>560.436137071651</ymax>
-    </bndbox>
-</object><object>
-    <name>ON</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>425.6577153762268</xmin>
-        <ymin>586.6043613707164</ymin>
-        <xmax>483.4548800436205</xmax>
-        <ymax>665.1090342679126</ymax>
+        <xmin>358.648493543759</xmin>
+        <ymin>43.10048527443106</ymin>
+        <xmax>439.77761836441897</xmax>
+        <ymax>162.22230589022757</ymax>
     </bndbox>
 </object>
 </annotation>

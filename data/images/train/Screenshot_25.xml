@@ -1,48 +1,48 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>Screenshot_25.jpg</filename>
-    <path>Fuel-Price-Types-New-PascalVOC-export/Annotations/Screenshot_25.jpg</path>
+    <path>DIGITS-PascalVOC-export/Annotations/Screenshot_25.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
     <size>
-        <width>1000</width>
-        <height>700</height>
+        <width>753</width>
+        <height>252</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-    <name>PB95</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>364.5890130861505</xmin>
-        <ymin>85.59190031152647</ymin>
-        <xmax>442.5606597600872</xmax>
-        <ymax>170.09345794392522</ymax>
+        <xmin>368.3974175035868</xmin>
+        <ymin>51.800625</ymin>
+        <xmax>440.06025824964127</xmax>
+        <ymax>210.920625</ymax>
     </bndbox>
 </object><object>
-    <name>ON</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>367.31529443838605</xmin>
-        <ymin>177.7258566978193</ymin>
-        <xmax>443.10591603053433</xmax>
-        <ymax>263.31775700934577</ymax>
+        <xmin>460.58680057388807</xmin>
+        <ymin>47.840624999999996</ymin>
+        <xmax>558.8981348637016</xmax>
+        <ymax>209.840625</ymax>
     </bndbox>
 </object><object>
-    <name>PB98</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>370.58683206106866</xmin>
-        <ymin>370.1713395638629</ymin>
-        <xmax>442.5606597600872</xmax>
-        <ymax>454.6728971962616</ymax>
+        <xmin>576.183644189383</xmin>
+        <ymin>47.840624999999996</ymin>
+        <xmax>672.6944045911047</xmax>
+        <ymax>212.00062499999999</ymax>
     </bndbox>
 </object>
 </annotation>

@@ -1,48 +1,48 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
     <filename>Screenshot_24.jpg</filename>
-    <path>Fuel-Price-Types-New-PascalVOC-export/Annotations/Screenshot_24.jpg</path>
+    <path>DIGITS-PascalVOC-export/Annotations/Screenshot_24.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
     <size>
-        <width>1000</width>
-        <height>700</height>
+        <width>724</width>
+        <height>283</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-    <name>PB95</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>342.23350599781895</xmin>
-        <ymin>77.9595015576324</ymin>
-        <xmax>416.38835877862596</xmax>
-        <ymax>157.00934579439252</ymax>
+        <xmin>270.4179818268771</xmin>
+        <ymin>72.6280791003672</ymin>
+        <xmax>364.25059780009565</xmax>
+        <ymax>240.97324433904527</ymax>
     </bndbox>
 </object><object>
-    <name>ON</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>339.5072246455834</xmin>
-        <ymin>174.99999999999997</ymin>
-        <xmax>418.02412758996724</xmax>
-        <ymax>261.6822429906542</ymax>
+        <xmin>382.9478718316595</xmin>
+        <ymin>72.97446832925337</ymin>
+        <xmax>484.74414155906265</xmax>
+        <ymax>247.20825045899633</ymax>
     </bndbox>
 </object><object>
-    <name>PB98</name>
+    <name>digits</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>344.4145310796074</xmin>
-        <ymin>373.98753894080994</ymin>
-        <xmax>421.840921483097</xmax>
-        <ymax>457.9439252336448</ymax>
+        <xmin>498.5939741750359</xmin>
+        <ymin>71.58891141370869</ymin>
+        <xmax>601.0827355332377</xmax>
+        <ymax>244.43713662790697</ymax>
     </bndbox>
 </object>
 </annotation>

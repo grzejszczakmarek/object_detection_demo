@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Screenshot_42.jpg</filename>
+    <path>DIGITS-PascalVOC-export/Annotations/Screenshot_42.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>492</width>
+        <height>248</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>digits</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>164</xmin>
+        <ymin>82.3529411764706</ymin>
+        <xmax>242.11764705882354</xmax>
+        <ymax>232.70588235294116</ymax>
+    </bndbox>
+</object><object>
+    <name>digits</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>247.05882352941177</xmin>
+        <ymin>83.29411764705883</ymin>
+        <xmax>333.6470588235294</xmax>
+        <ymax>220.70588235294116</ymax>
+    </bndbox>
+</object><object>
+    <name>digits</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>344</xmin>
+        <ymin>63.76470588235294</ymin>
+        <xmax>426.11764705882354</xmax>
+        <ymax>202.3529411764706</ymax>
+    </bndbox>
+</object>
+</annotation>
